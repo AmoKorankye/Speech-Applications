@@ -6,7 +6,7 @@ from google.oauth2 import service_account
 from google.cloud import speech
 
 # Set up the Google Cloud Speech client
-client_file = 'sa_speech_demo.json'
+client_file = # Add the API key here
 credentials = service_account.Credentials.from_service_account_file(client_file)
 client = speech.SpeechClient(credentials=credentials)
 
