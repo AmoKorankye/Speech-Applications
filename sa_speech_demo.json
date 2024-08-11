@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "ai-project-402820",
-  "private_key_id": "362c472e8ea53fcf4fdd34579c6385c6abb2f484",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKL5TeJZpb9xIk\nxIX0ZnXIHJJXgf9AE9/3IYytPYFnsxXgQQt+B4TKgjMT5p2CiBz0DzX3kCU8mcQB\nEhjx15W1/iufam84U+908eYwe60zup/pvuDLu63hMjmAZWpNBhIm5L6/bhporYNa\ng7MWBJgBk4/4Hmnnw+8bL/DzLq4f1ozAgf4rw/z5Ss3ZsdmR/r4IO/QUepHM6cmA\nTThuh8VYj9T9c7iA/Q62aw0m1n0wpZ1wyUD1yhu+ERynyC9kO1NQajtLJBzDYry6\nDaAiZFvsDAlXxtAxidfjDH6wdk29nGnjTEZjA17Wc41MSoG3IdTbC499tx6nWeHR\nmgiUNlPPAgMBAAECggEAA72anvuKHg51pvl90vY8Up34tSbCDrDvcVaNED11kfIV\nwwbhDA1ejxKWmFUpb9tN0dQgNvrTPYpIvo5TqNHIwsu3ieUBtsSSxxKcpCP9odnf\nkIcICKzpvCNePfpiW5dzqYWM4+TJF0uyhO+v1gXyvAC7ZqdFZVTSLSoXZqBj91HL\n7oMx5DhvD0rLVsjk/uwSgrmXSF6yXAv8G043DGTcGlY5ArDJVSuu8oK6tE4YN/ac\npecqsPHQfdEYVGFhaALY6gzz1X0Fs58uB/YpC5kSI1C7NMMbuQWQ+eM7xa1+ke9M\nAY8hHFaFl/TpaT0DFD9UhuH1Wbolb4JoiXP7Oi3C9QKBgQDuHnb7INSZGL7VSVO9\nqF9iqYg3f2OUvBWUkWatffix+FYad2IfxwzeaOtQdopOPm7DiPy30tNoaqCoTQ6j\nEcKDzKhuEYDfCmvTfWQ3pjFxqgwDtQ4H30s6r0ayr9V7yAA1NvMhQM6BkUb/S6EB\n69q09GNIpPjlgU3pdW1pYwbaNQKBgQDZXlkL0plmQekNqSBmDzChnWMv+bMS3d94\nVEhUIJx7vXpeK78JzDKrxnEEkpH1S1k+Fd2DGILoL/NTokE/LPEsOVxFRG+UJsd6\nra8AcnZSlQDcrVFUfJ8aTxH7hr9h3Ll11qbpfsLCxwU0xEtEMxHBX6PmNrLJoxIw\nVv9mrhLWcwKBgFkMwZhG/drHW06uXofV+N4P4qZGmLod4MAv5ENLkf8UjTbWoLab\nnR9sA1yTCEQcqxWrHD+us2sgPTbTon6vfJwHpJGNMDG5Vvu/sAPzvhfw7Q9R3Y5q\nHlszA3B9u4vQDuvXwfMUpmXkK7X71Zm/V4pGvv6C26YQxk9hn+pCo2RlAoGBAIjF\nofgbcqRyMoeC9LzjL/FxS9kDIBdt/lADkGNHBc+igN3CXvl2QCfvvGtpImgbGjND\npNb5VF1u1oe4X5+10qbGDPYUwrSQ1hGuOaBpZWQ/F4TDlZo4tA/k0ubWeZPFQ/kO\nsIXZWgkfG3qBTO7Dx5dKa6HOpx7S+f3qr9fXDklbAoGAVie6DOuhsYDGYl9Wm7C0\nauWHxV5BU9NgkRgpPCusv2jUG2MbAZAv5/yRegBcygSRP2p6Ik8ZlsQfMRb7Na5z\na7WPVGQESzbXcfv/tg45sk82UWkRDJnipo2zrViYiZFFkRAUznPtcFMYGtdC/bvO\nhFvhXXVAy+pSreG4203ZVWQ=\n-----END PRIVATE KEY-----\n",
-  "client_email": "mnotify@ai-project-402820.iam.gserviceaccount.com",
-  "client_id": "100680845486459436763",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mnotify%40ai-project-402820.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  API Key goes here
 }
